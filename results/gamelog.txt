@@ -1,0 +1,2917 @@
+TACS Pokerbots - OurBot vs CheckCallBot
+
+Round #1, OurBot (0), CheckCallBot (0)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3h 4h]
+CheckCallBot dealt [6s 5c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #2, CheckCallBot (1), OurBot (-1)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7d 2d]
+OurBot dealt [3c 5h]
+CheckCallBot calls
+OurBot checks
+Flop [8c Ah Jd], CheckCallBot (2), OurBot (2)
+Redraw reveal for 0: WH0 X3c
+OurBot redraws hole card 0 and checks
+CheckCallBot response misformatted: 
+CheckCallBot checks
+Turn [8c Ah Jd 7c], CheckCallBot (2), OurBot (2)
+OurBot checks
+CheckCallBot disconnected
+CheckCallBot checks
+River [8c Ah Jd 7c 9c], CheckCallBot (2), OurBot (2)
+OurBot checks
+CheckCallBot checks
+CheckCallBot shows [7d 2d]
+OurBot shows [9h 5h]
+CheckCallBot awarded -2
+OurBot awarded 2
+
+Round #3, OurBot (1), CheckCallBot (-1)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7s 5h]
+CheckCallBot dealt [7d 8d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #4, CheckCallBot (0), OurBot (0)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9d 5d]
+OurBot dealt [3h Qs]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #5, OurBot (1), CheckCallBot (-1)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd Jd]
+CheckCallBot dealt [5d 9s]
+OurBot calls
+CheckCallBot checks
+Flop [Ad 7s 4d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #6, CheckCallBot (-3), OurBot (3)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 3s]
+OurBot dealt [7s Qs]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #7, OurBot (4), CheckCallBot (-4)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9d Td]
+CheckCallBot dealt [7h 2c]
+OurBot calls
+CheckCallBot checks
+Flop [6c 8d 6s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WB0 X6c
+OurBot redraws board card 0 and bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #8, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4h Ac]
+OurBot dealt [8c Qs]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #9, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5d Qs]
+CheckCallBot dealt [6h Kh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #10, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8h 2c]
+OurBot dealt [Kh 5d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #11, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 3h]
+CheckCallBot dealt [4d As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #12, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3d Th]
+OurBot dealt [Jc Kh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #13, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jc 7s]
+CheckCallBot dealt [6c 6d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #14, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9s 5s]
+OurBot dealt [3c Kd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #15, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3h Jc]
+CheckCallBot dealt [8c Ac]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #16, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qc 5h]
+OurBot dealt [7d Td]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #17, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8d 6c]
+CheckCallBot dealt [Kc 9h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #18, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kc 6d]
+OurBot dealt [8c Jc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #19, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2h Kd]
+CheckCallBot dealt [2s As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #20, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 2h]
+OurBot dealt [3s Js]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #21, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4s 3c]
+CheckCallBot dealt [Th Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #22, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3d Qc]
+OurBot dealt [7d 3s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #23, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 6c]
+CheckCallBot dealt [Js 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #24, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qd Tc]
+OurBot dealt [Qh 5s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #25, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6d 8c]
+CheckCallBot dealt [8h 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #26, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6h 2c]
+OurBot dealt [7s 6c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #27, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Tc 6h]
+CheckCallBot dealt [4h Ks]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #28, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8h Ah]
+OurBot dealt [4d 4h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #29, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6d 9s]
+CheckCallBot dealt [2h 3c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #30, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ad Ks]
+OurBot dealt [6s Kd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #31, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9h Jd]
+CheckCallBot dealt [Ac Ks]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #32, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Th 9d]
+OurBot dealt [Jd Ac]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #33, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8h Jd]
+CheckCallBot dealt [Kh 6s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #34, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5s 2c]
+OurBot dealt [Jc Kh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #35, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jd 3c]
+CheckCallBot dealt [Kh Qc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #36, CheckCallBot (-6), OurBot (6)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7d 9c]
+OurBot dealt [Jd 9s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #37, OurBot (7), CheckCallBot (-7)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jh Tc]
+CheckCallBot dealt [2h Ks]
+OurBot calls
+CheckCallBot checks
+Flop [7s Jc Qs], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 XTc
+OurBot redraws hole card 1 and bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #38, CheckCallBot (-9), OurBot (9)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4c 2d]
+OurBot dealt [Qd 5c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #39, OurBot (10), CheckCallBot (-10)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qs 4d]
+CheckCallBot dealt [6d 6h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #40, CheckCallBot (-9), OurBot (9)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah 6h]
+OurBot dealt [Ks Kd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #41, OurBot (10), CheckCallBot (-10)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2s 5s]
+CheckCallBot dealt [9d 3c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #42, CheckCallBot (-9), OurBot (9)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8s 2s]
+OurBot dealt [Qh Th]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #43, OurBot (10), CheckCallBot (-10)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4d 6h]
+CheckCallBot dealt [Td 5c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #44, CheckCallBot (-9), OurBot (9)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah 4c]
+OurBot dealt [6c Ts]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #45, OurBot (10), CheckCallBot (-10)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8h 3d]
+CheckCallBot dealt [Kh 7d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #46, CheckCallBot (-9), OurBot (9)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8h 2d]
+OurBot dealt [Tc 9h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #47, OurBot (10), CheckCallBot (-10)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh Ac]
+CheckCallBot dealt [3d 5c]
+OurBot raises to 6
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #48, CheckCallBot (-12), OurBot (12)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2h 8d]
+OurBot dealt [3c 9s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #49, OurBot (13), CheckCallBot (-13)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ac 5d]
+CheckCallBot dealt [Th 2d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #50, CheckCallBot (-12), OurBot (12)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6d 5c]
+OurBot dealt [Ah 9d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #51, OurBot (13), CheckCallBot (-13)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6s 7d]
+CheckCallBot dealt [Kh Ac]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #52, CheckCallBot (-12), OurBot (12)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c 4h]
+OurBot dealt [Jc 3d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #53, OurBot (13), CheckCallBot (-13)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6h Kc]
+CheckCallBot dealt [Ac 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #54, CheckCallBot (-12), OurBot (12)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8d 9c]
+OurBot dealt [7h 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #55, OurBot (13), CheckCallBot (-13)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9c 9h]
+CheckCallBot dealt [Tc 5h]
+OurBot raises to 5
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #56, CheckCallBot (-15), OurBot (15)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ts Jd]
+OurBot dealt [2h 5d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #57, OurBot (16), CheckCallBot (-16)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ks 2h]
+CheckCallBot dealt [7c 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #58, CheckCallBot (-15), OurBot (15)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9h Th]
+OurBot dealt [6h 7s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #59, OurBot (16), CheckCallBot (-16)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7s 2c]
+CheckCallBot dealt [4d 6h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #60, CheckCallBot (-15), OurBot (15)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kc Ts]
+OurBot dealt [5s Jd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #61, OurBot (16), CheckCallBot (-16)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8h 8d]
+CheckCallBot dealt [Th 6c]
+OurBot calls
+CheckCallBot checks
+Flop [Tc 9s 8s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WB0 XTc
+OurBot redraws board card 0 and bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #62, CheckCallBot (-18), OurBot (18)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah Ks]
+OurBot dealt [8s 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #63, OurBot (19), CheckCallBot (-19)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ts 5s]
+CheckCallBot dealt [9h Js]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #64, CheckCallBot (-18), OurBot (18)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jc 5c]
+OurBot dealt [8d 4d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #65, OurBot (19), CheckCallBot (-19)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Td As]
+CheckCallBot dealt [4c 6d]
+OurBot calls
+CheckCallBot checks
+Flop [6c 8c Ah], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #66, CheckCallBot (-21), OurBot (21)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qs 6h]
+OurBot dealt [Jd 2h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #67, OurBot (22), CheckCallBot (-22)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2h 7c]
+CheckCallBot dealt [Jc Ks]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #68, CheckCallBot (-21), OurBot (21)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7s 4h]
+OurBot dealt [7d 6d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #69, OurBot (22), CheckCallBot (-22)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Th 9s]
+CheckCallBot dealt [Kd Ac]
+OurBot calls
+CheckCallBot checks
+Flop [Ad 5h 4c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X9s
+OurBot redraws hole card 1 and checks
+Turn [Ad 5h 4c 3s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [Ad 5h 4c 3s Qh], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Th Kc]
+CheckCallBot shows [Kd Ac]
+OurBot awarded -2
+CheckCallBot awarded 2
+
+Round #70, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kh 3c]
+OurBot dealt [4d 3s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #71, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6c Qd]
+CheckCallBot dealt [As 3h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #72, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7s 6s]
+OurBot dealt [6d 8h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #73, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3s Qc]
+CheckCallBot dealt [Ah 3d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #74, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 9s]
+OurBot dealt [7c Kd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #75, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3s Th]
+CheckCallBot dealt [Qd 5s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #76, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 6s]
+OurBot dealt [3d Ah]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #77, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6c Qc]
+CheckCallBot dealt [3h 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #78, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9s Jd]
+OurBot dealt [7s 3d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #79, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4c 2s]
+CheckCallBot dealt [7d 3h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #80, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8s 5c]
+OurBot dealt [Kh 7c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #81, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4s Ad]
+CheckCallBot dealt [Ac 6s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #82, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5d Th]
+OurBot dealt [As Qh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #83, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6d 7h]
+CheckCallBot dealt [Qh 9h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #84, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qh 2h]
+OurBot dealt [Ts 8d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #85, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8s 7d]
+CheckCallBot dealt [4d 3c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #86, CheckCallBot (-20), OurBot (20)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8c Js]
+OurBot dealt [Qc 4s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #87, OurBot (21), CheckCallBot (-21)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd As]
+CheckCallBot dealt [7h 2s]
+OurBot raises to 6
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #88, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8s Qd]
+OurBot dealt [7s 3s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #89, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2s 9c]
+CheckCallBot dealt [2d 9s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #90, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3c 6d]
+OurBot dealt [4d 2d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #91, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2d 3s]
+CheckCallBot dealt [4d 4h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #92, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6s 8c]
+OurBot dealt [5h Jd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #93, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qc 2s]
+CheckCallBot dealt [9h Ts]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #94, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Th 4d]
+OurBot dealt [6d Ks]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #95, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ac 8h]
+CheckCallBot dealt [9h 4d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #96, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9s 6h]
+OurBot dealt [7c Kh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #97, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c 3h]
+CheckCallBot dealt [2d Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #98, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c 5c]
+OurBot dealt [3c 6c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #99, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7c Ts]
+CheckCallBot dealt [9s Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #100, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3s 4s]
+OurBot dealt [Kh 9s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #101, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5s 9d]
+CheckCallBot dealt [2c 4h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #102, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9h Ts]
+OurBot dealt [3d 3s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #103, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8d Jc]
+CheckCallBot dealt [6d 4s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #104, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3d 8d]
+OurBot dealt [Js Ks]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #105, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2s 9s]
+CheckCallBot dealt [Qc Td]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #106, CheckCallBot (-23), OurBot (23)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9h 8h]
+OurBot dealt [3c 6h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #107, OurBot (24), CheckCallBot (-24)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c 8h]
+CheckCallBot dealt [3s Js]
+OurBot calls
+CheckCallBot checks
+Flop [Jh 7s 7c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #108, CheckCallBot (-26), OurBot (26)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4d 6c]
+OurBot dealt [Qh 9h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #109, OurBot (27), CheckCallBot (-27)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8s Kd]
+CheckCallBot dealt [8c Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #110, CheckCallBot (-26), OurBot (26)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jc 4s]
+OurBot dealt [Qh 9d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #111, OurBot (27), CheckCallBot (-27)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c Ad]
+CheckCallBot dealt [Jc 2s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #112, CheckCallBot (-26), OurBot (26)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kd 2h]
+OurBot dealt [9c 5d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #113, OurBot (27), CheckCallBot (-27)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [As Ts]
+CheckCallBot dealt [Ah Ks]
+OurBot calls
+CheckCallBot checks
+Flop [Qd Kh 3s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #114, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Td Ts]
+OurBot dealt [8s 9c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #115, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2d 7d]
+CheckCallBot dealt [4h 9d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #116, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kh Ah]
+OurBot dealt [Qh 9d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #117, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2c Ad]
+CheckCallBot dealt [5d 5s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #118, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jd 9h]
+OurBot dealt [6h Td]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #119, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7c Ad]
+CheckCallBot dealt [3c 7d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #120, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6s Kc]
+OurBot dealt [2h 9s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #121, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3h 9h]
+CheckCallBot dealt [8c As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #122, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jd 6d]
+OurBot dealt [Qs 2s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #123, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd 7s]
+CheckCallBot dealt [2h 9c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #124, CheckCallBot (-29), OurBot (29)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3h 8h]
+OurBot dealt [4h 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #125, OurBot (30), CheckCallBot (-30)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9d 8h]
+CheckCallBot dealt [3d Kc]
+OurBot calls
+CheckCallBot checks
+Flop [8s 9c 6h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #126, CheckCallBot (-32), OurBot (32)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6d Tc]
+OurBot dealt [Qd Kd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #127, OurBot (33), CheckCallBot (-33)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd 5c]
+CheckCallBot dealt [Kh 8c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #128, CheckCallBot (-32), OurBot (32)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c 8c]
+OurBot dealt [9s Ah]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #129, OurBot (33), CheckCallBot (-33)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qc Kh]
+CheckCallBot dealt [7d 4h]
+OurBot calls
+CheckCallBot checks
+Flop [Ac Js 2h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WB2 X2h
+OurBot redraws board card 2 and checks
+Turn [Ac Js Qs 9d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #130, CheckCallBot (-35), OurBot (35)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Th Qh]
+OurBot dealt [Ad Ah]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #131, OurBot (36), CheckCallBot (-36)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5d Qh]
+CheckCallBot dealt [7s 8c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #132, CheckCallBot (-35), OurBot (35)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2c Qd]
+OurBot dealt [7s Jh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #133, OurBot (36), CheckCallBot (-36)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8d 7d]
+CheckCallBot dealt [7h Qh]
+OurBot calls
+CheckCallBot checks
+Flop [9s 4c 8c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #134, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c 5h]
+OurBot dealt [2c As]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #135, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Tc 2h]
+CheckCallBot dealt [6s 9d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #136, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9d 6h]
+OurBot dealt [4h 4c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #137, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5d Kd]
+CheckCallBot dealt [6s 4d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #138, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c 9h]
+OurBot dealt [8s 5s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #139, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4s Kh]
+CheckCallBot dealt [5c 9s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #140, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8d Td]
+OurBot dealt [9d Ks]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #141, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3s 9h]
+CheckCallBot dealt [3d Ks]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #142, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ts Ks]
+OurBot dealt [3d 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #143, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8h Ks]
+CheckCallBot dealt [Tc Th]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #144, CheckCallBot (-38), OurBot (38)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 6h]
+OurBot dealt [4c Ks]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #145, OurBot (39), CheckCallBot (-39)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c 8s]
+CheckCallBot dealt [3c 9c]
+OurBot calls
+CheckCallBot checks
+Flop [Ah 7c 8h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #146, CheckCallBot (-41), OurBot (41)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qc Ac]
+OurBot dealt [Js 3h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #147, OurBot (42), CheckCallBot (-42)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 3s]
+CheckCallBot dealt [3d Ac]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #148, CheckCallBot (-41), OurBot (41)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Th 6c]
+OurBot dealt [Qd Ts]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #149, OurBot (42), CheckCallBot (-42)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jc 9c]
+CheckCallBot dealt [6c 8h]
+OurBot calls
+CheckCallBot checks
+Flop [Qc 7d 2d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+Turn [Qc 7d 2d Ah], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X9c
+OurBot redraws hole card 1 and checks
+River [Qc 7d 2d Ah 8s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Jc As]
+CheckCallBot shows [6c 8h]
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #150, CheckCallBot (-44), OurBot (44)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 8d]
+OurBot dealt [9h Qc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #151, OurBot (45), CheckCallBot (-45)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8d 7d]
+CheckCallBot dealt [3c 5d]
+OurBot calls
+CheckCallBot checks
+Flop [Ac 6c 2s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X7d
+OurBot redraws hole card 1 and checks
+Turn [Ac 6c 2s Ad], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [Ac 6c 2s Ad 9c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [8d 8s]
+CheckCallBot shows [3c 5d]
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #152, CheckCallBot (-47), OurBot (47)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c 7h]
+OurBot dealt [3c 9d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #153, OurBot (48), CheckCallBot (-48)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2s 7c]
+CheckCallBot dealt [3d 5c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #154, CheckCallBot (-47), OurBot (47)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c 5s]
+OurBot dealt [6h Kc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #155, OurBot (48), CheckCallBot (-48)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Td 4h]
+CheckCallBot dealt [6h Jh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #156, CheckCallBot (-47), OurBot (47)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ts 5c]
+OurBot dealt [Qd Jc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #157, OurBot (48), CheckCallBot (-48)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qh Js]
+CheckCallBot dealt [4c 2c]
+OurBot calls
+CheckCallBot checks
+Flop [9h 6s 9s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+Turn [9h 6s 9s 2s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [9h 6s 9s 2s 9d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Qh Js]
+CheckCallBot shows [4c 2c]
+OurBot awarded -2
+CheckCallBot awarded 2
+
+Round #158, CheckCallBot (-46), OurBot (46)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2d Ad]
+OurBot dealt [Td 8h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #159, OurBot (47), CheckCallBot (-47)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2c 7c]
+CheckCallBot dealt [6s Qs]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #160, CheckCallBot (-46), OurBot (46)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4h 2h]
+OurBot dealt [7s Ac]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #161, OurBot (47), CheckCallBot (-47)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9d 9c]
+CheckCallBot dealt [7c 2h]
+OurBot raises to 5
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #162, CheckCallBot (-49), OurBot (49)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qh 6s]
+OurBot dealt [Jd Kh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #163, OurBot (50), CheckCallBot (-50)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7h Jh]
+CheckCallBot dealt [Kd Qd]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #164, CheckCallBot (-49), OurBot (49)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [As Ah]
+OurBot dealt [3d 5d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #165, OurBot (50), CheckCallBot (-50)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3h Tc]
+CheckCallBot dealt [9c Qc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #166, CheckCallBot (-49), OurBot (49)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ks 9d]
+OurBot dealt [Td 2h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #167, OurBot (50), CheckCallBot (-50)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9d 7s]
+CheckCallBot dealt [5s 6c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #168, CheckCallBot (-49), OurBot (49)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9h 6d]
+OurBot dealt [2s 8c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #169, OurBot (50), CheckCallBot (-50)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ad 7s]
+CheckCallBot dealt [Qd Kh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #170, CheckCallBot (-49), OurBot (49)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Js Qh]
+OurBot dealt [9h Qs]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #171, OurBot (50), CheckCallBot (-50)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [9h 8s]
+CheckCallBot dealt [5h 7c]
+OurBot calls
+CheckCallBot checks
+Flop [Ts Td 3h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X8s
+OurBot redraws hole card 1 and bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #172, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kc 3d]
+OurBot dealt [Ah 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #173, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8s Th]
+CheckCallBot dealt [2d Ah]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #174, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7d 9c]
+OurBot dealt [Ks 2d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #175, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 4d]
+CheckCallBot dealt [9d 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #176, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah 9h]
+OurBot dealt [Jc 7c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #177, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jh 5s]
+CheckCallBot dealt [Kh Td]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #178, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c Jd]
+OurBot dealt [4s Js]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #179, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Jc 8h]
+CheckCallBot dealt [Jh Qc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #180, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Th 3d]
+OurBot dealt [7c 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #181, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5c 6h]
+CheckCallBot dealt [2c Qh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #182, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8d 5d]
+OurBot dealt [8c 9c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #183, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kc 6s]
+CheckCallBot dealt [Th 7h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #184, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6c Kd]
+OurBot dealt [3h Qh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #185, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4h Tc]
+CheckCallBot dealt [9h Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #186, CheckCallBot (-52), OurBot (52)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8c Js]
+OurBot dealt [Qd As]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #187, OurBot (53), CheckCallBot (-53)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qc Js]
+CheckCallBot dealt [4c 2h]
+OurBot calls
+CheckCallBot checks
+Flop [Kh 6d 9c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 XJs
+OurBot redraws hole card 1 and checks
+Turn [Kh 6d 9c Ad], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [Kh 6d 9c Ad 3s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Qc 8s]
+CheckCallBot shows [4c 2h]
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #188, CheckCallBot (-55), OurBot (55)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2h As]
+OurBot dealt [Kc 9d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #189, OurBot (56), CheckCallBot (-56)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd 7c]
+CheckCallBot dealt [3h Jh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #190, CheckCallBot (-55), OurBot (55)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qc 7s]
+OurBot dealt [6c Ac]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #191, OurBot (56), CheckCallBot (-56)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qs Ad]
+CheckCallBot dealt [7c 5d]
+OurBot calls
+CheckCallBot checks
+Flop [5c 4c Js], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WB0 X5c
+OurBot redraws board card 0 and checks
+Turn [2d 4c Js 7h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [2d 4c Js 7h 5h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Qs Ad]
+CheckCallBot shows [7c 5d]
+OurBot awarded -2
+CheckCallBot awarded 2
+
+Round #192, CheckCallBot (-54), OurBot (54)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jc Ac]
+OurBot dealt [Qs Ah]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #193, OurBot (55), CheckCallBot (-55)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8h Kh]
+CheckCallBot dealt [8c 4h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #194, CheckCallBot (-54), OurBot (54)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4s 3d]
+OurBot dealt [9s Td]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #195, OurBot (55), CheckCallBot (-55)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Tc 9s]
+CheckCallBot dealt [7d Kh]
+OurBot calls
+CheckCallBot checks
+Flop [3h Ac 5d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X9s
+OurBot redraws hole card 1 and checks
+Turn [3h Ac 5d Qh], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [3h Ac 5d Qh As], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Tc 7c]
+CheckCallBot shows [7d Kh]
+OurBot awarded -2
+CheckCallBot awarded 2
+
+Round #196, CheckCallBot (-53), OurBot (53)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ac 4s]
+OurBot dealt [6s 2d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #197, OurBot (54), CheckCallBot (-54)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3c 6c]
+CheckCallBot dealt [4c Th]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #198, CheckCallBot (-53), OurBot (53)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6d 7h]
+OurBot dealt [Jh 9s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #199, OurBot (54), CheckCallBot (-54)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ac Ah]
+CheckCallBot dealt [2c 8h]
+OurBot raises to 6
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #200, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3h Tc]
+OurBot dealt [7h 3c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #201, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7c 5h]
+CheckCallBot dealt [Kc Ts]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #202, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5c 4s]
+OurBot dealt [6c 2c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #203, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3c As]
+CheckCallBot dealt [4d Qd]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #204, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4c As]
+OurBot dealt [Qh 2h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #205, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2h 7d]
+CheckCallBot dealt [9s Tc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #206, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c 4h]
+OurBot dealt [6d Qh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #207, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6s Qd]
+CheckCallBot dealt [8c 5d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #208, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4s 9s]
+OurBot dealt [Ts 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #209, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qc Th]
+CheckCallBot dealt [Jd Ac]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #210, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ks 9h]
+OurBot dealt [Jh 6c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #211, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Tc 2s]
+CheckCallBot dealt [8d Ad]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #212, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jc 4s]
+OurBot dealt [3h 8c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #213, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3d 4h]
+CheckCallBot dealt [Td 9c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #214, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jd Ad]
+OurBot dealt [As 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #215, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4h 2s]
+CheckCallBot dealt [4d 6c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #216, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qd 4c]
+OurBot dealt [5d 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #217, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5d Kc]
+CheckCallBot dealt [Ah 9h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #218, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2h 5h]
+OurBot dealt [3d 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #219, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4d 7h]
+CheckCallBot dealt [6d 7d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #220, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9s 5s]
+OurBot dealt [3d 2d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #221, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5d 4s]
+CheckCallBot dealt [6d 9d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #222, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6h Qc]
+OurBot dealt [4d Ad]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #223, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3s 7c]
+CheckCallBot dealt [8d 6c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #224, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5h Kd]
+OurBot dealt [Qs As]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #225, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2c Qc]
+CheckCallBot dealt [Ah 7c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #226, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8c 5c]
+OurBot dealt [Kh 6c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #227, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 9c]
+CheckCallBot dealt [2c 6c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #228, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qc Kc]
+OurBot dealt [Kd 7h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #229, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c Qd]
+CheckCallBot dealt [6s Kh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #230, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ts 4d]
+OurBot dealt [9c 6h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #231, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ac 8h]
+CheckCallBot dealt [Th 5h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #232, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5d 6d]
+OurBot dealt [4d Ac]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #233, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7h 2d]
+CheckCallBot dealt [Th As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #234, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7h 8d]
+OurBot dealt [3s Kh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #235, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7s 2s]
+CheckCallBot dealt [4h 9c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #236, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kh Td]
+OurBot dealt [8h Qh]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #237, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2d 7d]
+CheckCallBot dealt [6h Ac]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #238, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3h 7s]
+OurBot dealt [Kc Tc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #239, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kc 5d]
+CheckCallBot dealt [2s 6h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #240, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3d 7c]
+OurBot dealt [Ah 5s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #241, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2h 4h]
+CheckCallBot dealt [Qh Qc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #242, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jd 9h]
+OurBot dealt [Kh 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #243, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ks 5d]
+CheckCallBot dealt [3h 8d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #244, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah 8s]
+OurBot dealt [Kh 8h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #245, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4s Th]
+CheckCallBot dealt [Jh Tc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #246, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8s Qh]
+OurBot dealt [9c 4d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #247, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qh 5s]
+CheckCallBot dealt [As 2s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #248, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8d 9d]
+OurBot dealt [Qs 4h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #249, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3s 4c]
+CheckCallBot dealt [8h Jc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #250, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Js 5s]
+OurBot dealt [4d 4c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #251, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kd 6d]
+CheckCallBot dealt [4c 9h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #252, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6c 9s]
+OurBot dealt [Jd 6s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #253, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kh 3h]
+CheckCallBot dealt [2h 6h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #254, CheckCallBot (-56), OurBot (56)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7h Jd]
+OurBot dealt [8d Tc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #255, OurBot (57), CheckCallBot (-57)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Td 9c]
+CheckCallBot dealt [Jd 8d]
+OurBot calls
+CheckCallBot checks
+Flop [2c Tc 4h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X9c
+OurBot redraws hole card 1 and bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #256, CheckCallBot (-59), OurBot (59)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7s 4d]
+OurBot dealt [3s 8s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #257, OurBot (60), CheckCallBot (-60)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2c 7c]
+CheckCallBot dealt [8h 2h]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #258, CheckCallBot (-59), OurBot (59)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c 9s]
+OurBot dealt [Ad 5h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #259, OurBot (60), CheckCallBot (-60)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Kc Td]
+CheckCallBot dealt [Tc 6d]
+OurBot calls
+CheckCallBot checks
+Flop [Ad 3d 4d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+Turn [Ad 3d 4d 8h], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+River [Ad 3d 4d 8h 4c], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot checks
+OurBot shows [Kc Td]
+CheckCallBot shows [Tc 6d]
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #260, CheckCallBot (-62), OurBot (62)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [5h Kc]
+OurBot dealt [Jd 7d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #261, OurBot (63), CheckCallBot (-63)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ac 3c]
+CheckCallBot dealt [8c 8s]
+OurBot calls
+CheckCallBot checks
+Flop [4d As 2d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WB0 X4d
+OurBot redraws board card 0 and bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #262, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Tc Qs]
+OurBot dealt [6c 4d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #263, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7s Ad]
+CheckCallBot dealt [3d 3c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #264, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ks 3c]
+OurBot dealt [6s Ad]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #265, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5h 2c]
+CheckCallBot dealt [9d 8s]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #266, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [6c 3h]
+OurBot dealt [8d 9c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #267, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3d 7d]
+CheckCallBot dealt [2d 5c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #268, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7d Ac]
+OurBot dealt [Qh Jc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #269, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [5s 3h]
+CheckCallBot dealt [9h As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #270, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jd 6c]
+OurBot dealt [3h 7h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #271, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6s Qh]
+CheckCallBot dealt [6d 4c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #272, CheckCallBot (-65), OurBot (65)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9h 3h]
+OurBot dealt [Td 8d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #273, OurBot (66), CheckCallBot (-66)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qd Jc]
+CheckCallBot dealt [5c Js]
+OurBot calls
+CheckCallBot checks
+Flop [Qs 5s 9d], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+OurBot bets 2
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #274, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ah 5d]
+OurBot dealt [7d Jc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #275, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [6h 9d]
+CheckCallBot dealt [Td 2c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #276, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [9c Qh]
+OurBot dealt [Jd Qc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #277, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8d Ts]
+CheckCallBot dealt [7d Ah]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #278, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Qc 8d]
+OurBot dealt [9d 2c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #279, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c 7s]
+CheckCallBot dealt [Qd 5d]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #280, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ks Qh]
+OurBot dealt [3s 5s]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #281, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ad 6h]
+CheckCallBot dealt [2s Kh]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #282, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [7c Ks]
+OurBot dealt [6d 4d]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #283, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ts 7s]
+CheckCallBot dealt [5d As]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #284, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Ks 8s]
+OurBot dealt [Tc 5c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #285, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Qs 9c]
+CheckCallBot dealt [4d Tc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #286, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [4c 8s]
+OurBot dealt [Ah Qd]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #287, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ah 9c]
+CheckCallBot dealt [Ac Td]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #288, CheckCallBot (-68), OurBot (68)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2s Ts]
+OurBot dealt [8d Ks]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #289, OurBot (69), CheckCallBot (-69)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [Ah Kd]
+CheckCallBot dealt [Ts Qh]
+OurBot raises to 6
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #290, CheckCallBot (-71), OurBot (71)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Kc Kd]
+OurBot dealt [2d Qc]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #291, OurBot (72), CheckCallBot (-72)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [7d 9s]
+CheckCallBot dealt [Jh Qs]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #292, CheckCallBot (-71), OurBot (71)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [2s Kh]
+OurBot dealt [6s 2h]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #293, OurBot (72), CheckCallBot (-72)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [2h 4h]
+CheckCallBot dealt [7h 2c]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #294, CheckCallBot (-71), OurBot (71)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [3d Kh]
+OurBot dealt [6s Ah]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #295, OurBot (72), CheckCallBot (-72)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [8c 7c]
+CheckCallBot dealt [5d 3s]
+OurBot calls
+CheckCallBot checks
+Flop [3c Ah 4s], OurBot (2), CheckCallBot (2)
+CheckCallBot checks
+Redraw reveal for 1: WH1 X7c
+OurBot redraws hole card 1 and bets 3
+CheckCallBot folds
+OurBot awarded 2
+CheckCallBot awarded -2
+
+Round #296, CheckCallBot (-74), OurBot (74)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [8c 7d]
+OurBot dealt [9d 6c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #297, OurBot (75), CheckCallBot (-75)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [4d Qs]
+CheckCallBot dealt [9s Js]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #298, CheckCallBot (-74), OurBot (74)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Jh 4d]
+OurBot dealt [5s Ad]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Round #299, OurBot (75), CheckCallBot (-75)
+OurBot posts blind 1
+CheckCallBot posts blind 2
+OurBot dealt [3d As]
+CheckCallBot dealt [5h Kc]
+OurBot folds
+OurBot awarded -1
+CheckCallBot awarded 1
+
+Round #300, CheckCallBot (-74), OurBot (74)
+CheckCallBot posts blind 1
+OurBot posts blind 2
+CheckCallBot dealt [Js 5h]
+OurBot dealt [6c 3c]
+CheckCallBot folds
+CheckCallBot awarded -1
+OurBot awarded 1
+
+Final, OurBot (75), CheckCallBot (-75)

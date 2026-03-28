@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\reiiw\.gemini\antigravity\scratch\build4good-poker-yyg\check_call_bot\player.py", line 60, in <module>
+    run_bot(Player(), parse_args())
+  File "C:\Users\reiiw\.gemini\antigravity\scratch\build4good-poker-yyg\check_call_bot\..\python_skeleton\skeleton\runner.py", line 195, in run_bot
+    runner.run()
+  File "C:\Users\reiiw\.gemini\antigravity\scratch\build4good-poker-yyg\check_call_bot\..\python_skeleton\skeleton\runner.py", line 123, in run
+    round_state = self._apply_action_clause(round_state, clause)
+  File "C:\Users\reiiw\.gemini\antigravity\scratch\build4good-poker-yyg\check_call_bot\..\python_skeleton\skeleton\runner.py", line 79, in _apply_action_clause
+    return round_state.proceed(action)
+  File "C:\Users\reiiw\.gemini\antigravity\scratch\build4good-poker-yyg\check_call_bot\..\python_skeleton\skeleton\states.py", line 202, in proceed
+    hands[active][target_index] = '??'
+IndexError: list assignment index out of range
